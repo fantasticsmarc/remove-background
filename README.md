@@ -16,13 +16,12 @@ AI-based image background removal tool using removebg API.
 ```bash
 pip install -r requirements.txt
 ```
-Or execute remove-background.exe without needing to install dependencies or Python.
 
 ## Usage
 ```bash
 python main.py
 ```
-Or execute txt-extractor.exe without needing python or libraries
+Or execute remove-background.exe without needing python or libraries
 
 ## License
 MIT
